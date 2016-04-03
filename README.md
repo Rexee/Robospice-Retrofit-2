@@ -1,2 +1,3 @@
-# Robospice-Retrofit-2
-Robospice with support Retrofit 2.x
+# Robospice with support Retrofit 2.x
+
+Added support Retrofit 2.x to [Robospice](https://github.com/stephanenicolas/robospice).
